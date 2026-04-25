@@ -1,3 +1,4 @@
+
 # Automaton Nexus — Multilingual AI Voice Agent Platform
 
 ### Automated Customer Calling Workflows Powered by Generative AI
@@ -103,6 +104,7 @@ Automaton Nexus follows a modular AI‑first pipeline:
 7. Customer responds via speech or keypad
 8. Results streamed to dashboard analytics layer
 
+<img width="1536" height="1024" alt="initial diagram" src="https://github.com/user-attachments/assets/f4432188-70e0-4fb4-9b2c-bf7c700d98db" />
 ---
 
 ## Technology Stack
