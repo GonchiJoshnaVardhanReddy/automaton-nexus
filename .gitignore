@@ -3,6 +3,7 @@
 **/node_modules/
 **/build/
 shared_changes_export/
+.superpowers/
 .vscode/
 **/.env
 **/.env.*
