@@ -290,11 +290,7 @@ API available at:
 http://127.0.0.1:8001
 ```
 
-Swagger docs:
 
-```
-http://127.0.0.1:8001/docs
-```
 
 ### Frontend Setup
 
